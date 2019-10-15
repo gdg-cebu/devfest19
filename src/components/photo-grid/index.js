@@ -5,36 +5,36 @@ import style from './style';
 const PhotoGrid = () => (
     <div class={style.photoGrid}>
         <picture>
-            <source src="/assets/gallery/01.webp" type="image/webp" />
-            <img src="/assets/gallery/01.jpg" />
+            <source src="/assets/gallery/9.webp" type="image/webp" />
+            <img src="/assets/gallery/9.jpg" />
         </picture>
         <picture>
-            <source src="/assets/gallery/02.webp" type="image/webp" />
-            <img src="/assets/gallery/02.jpg" />
+            <source src="/assets/gallery/10.webp" type="image/webp" />
+            <img src="/assets/gallery/10.jpg" />
         </picture>
         <picture>
-            <source src="/assets/gallery/03.webp" type="image/webp" />
-            <img src="/assets/gallery/03.jpg" />
+            <source src="/assets/gallery/11.webp" type="image/webp" />
+            <img src="/assets/gallery/11.jpg" />
         </picture>
         <picture>
-            <source src="/assets/gallery/04.webp" type="image/webp" />
-            <img src="/assets/gallery/04.jpg" />
+            <source src="/assets/gallery/12.webp" type="image/webp" />
+            <img src="/assets/gallery/12.jpg" />
         </picture>
         <picture>
-            <source src="/assets/gallery/05.webp" type="image/webp" />
-            <img src="/assets/gallery/05.jpg" />
+            <source src="/assets/gallery/13.webp" type="image/webp" />
+            <img src="/assets/gallery/13.jpg" />
         </picture>
         <picture>
-            <source src="/assets/gallery/06.webp" type="image/webp" />
-            <img src="/assets/gallery/06.jpg" />
+            <source src="/assets/gallery/14.webp" type="image/webp" />
+            <img src="/assets/gallery/14.jpeg" />
         </picture>
         <picture>
-            <source src="/assets/gallery/07.webp" type="image/webp" />
-            <img src="/assets/gallery/07.jpg" />
+            <source src="/assets/gallery/15.webp" type="image/webp" />
+            <img src="/assets/gallery/15.jpg" />
         </picture>
         <picture>
-            <source src="/assets/gallery/08.webp" type="image/webp" />
-            <img src="/assets/gallery/08.jpg" />
+            <source src="/assets/gallery/16.webp" type="image/webp" />
+            <img src="/assets/gallery/16.jpg" />
         </picture>
 
         <section class={style.content}>
